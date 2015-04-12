@@ -1,6 +1,6 @@
 ## Introduction
 
-Important Note: Because of my regional settings, day names are Turkish in the plots !!!
+## Important Note: Because of my regional settings, day names are Turkish in the plots !!!
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
